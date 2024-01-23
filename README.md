@@ -1,6 +1,6 @@
 ## Lead-Scoring-Case-Study
 
-#SUMMARY REPORT
+*SUMMARY REPORT*
 
 1.	A logistic regression model was utilized in a lead scoring case study to align with the specific business requirements.
 2.	Although there is a substantial volume of leads in the initial stage, only a small fraction of them converts into paying customers. The majority of leads are from India, with Mumbai having the highest concentration.
